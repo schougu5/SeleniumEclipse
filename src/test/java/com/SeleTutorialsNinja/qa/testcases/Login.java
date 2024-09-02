@@ -38,7 +38,7 @@ public class Login extends Base {
 		
 	}
 	
-	
+	//Added comment-Snehal- To test Push command using eclipse.
 	
 	@Test
 	public void VerifyLoginWithValidCredentials() {
